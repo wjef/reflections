@@ -26,7 +26,7 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that
 could break something?
 
-    BLA BLA BLA BLA
+    I can actually commmit after writing each piece of function/code, so that if anything goes wrong I can revoke all changes. 
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
