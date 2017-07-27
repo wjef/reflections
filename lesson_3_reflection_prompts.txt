@@ -1,1 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
+[MK]First reason would be backup. The second, well I would say to let other people collaborate on my project. 
+
+
+What is the benefit of having a copy of last known state of of the remote stored locally?
+[MK] Well I would say that having a coopy of last known state of the remote stored locally can be useful to see if anybody else made any changes in parallel. Additionally you can switch branch and see what actual changes have been 
+introduced in new coomitts made on remote. 
