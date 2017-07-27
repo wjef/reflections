@@ -5,3 +5,9 @@ When would you want to use a remote repository rather than keeping all your work
 What is the benefit of having a copy of last known state of of the remote stored locally?
 [MK] Well I would say that having a coopy of last known state of the remote stored locally can be useful to see if anybody else made any changes in parallel. Additionally you can switch branch and see what actual changes have been 
 introduced in new coomitts made on remote. 
+
+How would you collaborate without using Git or Githu?
+[mk] most probably I would wanna put files on some server available for the whole team. However each time somebody makes changes he/she should save file as a new one with appendix
+
+What would be easier and what would be harder then?
+[MK] Easier would be the fact that almost no training is needed - everybody knows how to work on files. The harder thing would be that everybody will be making mistakes all the time with naming conventions or just simply they will edit the same file simultanouelsy and that it would be headache to cmpare them. 
