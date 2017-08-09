@@ -11,3 +11,6 @@ How would you collaborate without using Git or Githu?
 
 What would be easier and what would be harder then?
 [MK] Easier would be the fact that almost no training is needed - everybody knows how to work on files. The harder thing would be that everybody will be making mistakes all the time with naming conventions or just simply they will edit the same file simultanouelsy and that it would be headache to cmpare them. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+[MK] If I collaborate with other people they can create own branches and then incorporate changes only when their changes are ready. Even though if I'm working alone I could use this branches when I want to work on one big feature using many different commits. 
